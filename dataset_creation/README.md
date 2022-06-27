@@ -10,11 +10,16 @@ Consisteix en tres fases:
 ### 1. tweets_download.py
 Obtenció dels tweets dels medis seleccionats per un periode determinat.
 
-  **- Variables globals:**
-      - ACCOUNTS
-      - DATA_PATH
-      - MAX_TWEETS
-      - START_DAY
-      - FINAL_DAY
-      - MONTH
-      - YEAR
+- **Variables globals:**
+  - ACCOUNTS: Llistat de comptes.
+  - DATA_PATH: Directori arrel on s'emmagatzemen les dades.
+  - FREQ: Freqüència de fitxers.
+  - MAX_TWEETS: Número màxim de tweets en un fitxer. Cal tenir en compte les limitacions de la API.
+  - START_DAY: Dia inicial.
+  - FINAL_DAY: Dia final.
+  - MONTH: Mes del periode seleccionat, on es guardaran els tuits.
+  - YEAR: Any del peropde seleccionat, on es guardaran els tuits.
+  
+- **Entrada:** Cap.
+
+- **Sortida:** Un fitxer per cada compte i periode segons la freqüència seleccionada des del dia inicial fins el final en format csv i jsonl.
