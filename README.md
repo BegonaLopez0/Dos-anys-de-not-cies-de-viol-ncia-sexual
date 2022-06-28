@@ -8,12 +8,15 @@ El projecte consisteix en tres fases definides prèviament per un treball de fi 
     - [Codi i recursos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/dataset_creation) 
     - [Dades resultants](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/data)
 
-2. Classificació de casos
+2. [Classificació de casos]https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/cases_classification)
 Els articles descarregats a l'anterior fase s'agrupen segons la informació que comparteixen.
-    - Codi i recursos
-    - Resultats
+    - [Codi i recursos]https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/cases_classification)
+    - [Resultats](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/data)
     
 3. Anàlisis d'articles
+Un cop tenim tots els articles agrupats per casos el següent pas és analitzar.
+    - Codi i recursos
+    - Els resultats s'inclouen al codi (Python notebook)
 
 ## Memòria
 La memòria del treball amb tots els detalls es pot trobar a aquest repositori i és pot descarregar aquí.
