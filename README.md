@@ -1,4 +1,4 @@
-# Dos anys de notícies de violència sexual
+# Dos anys sobre violència sexual: un anàlisi automàtic
 
 Aquest repositori conté el codi utilitzat per al desenvolupament del meu treball de fi de grau.
 
