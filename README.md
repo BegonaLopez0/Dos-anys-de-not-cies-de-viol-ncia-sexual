@@ -13,9 +13,9 @@ Els articles descarregats a l'anterior fase s'agrupen segons la informació que 
     - [Codi i recursos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/cases_classification)
     - [Resultats](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/data)
     
-3. Anàlisis d'articles:
+3. [Anàlisis d'articles](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/articles_analysis):
 Un cop tenim tots els articles agrupats per casos el següent pas és analitzar.
-    - Codi i recursos
+    - [Codi i recursos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/articles_analysis)
     - Els resultats s'inclouen al codi (Python notebook)
 
 ## Memòria
