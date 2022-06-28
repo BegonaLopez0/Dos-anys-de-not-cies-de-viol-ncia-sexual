@@ -5,10 +5,14 @@ Aquest repositori conté el codi utilitzat per al desenvolupament del meu trebal
 ## Dades i codi
 El projecte consisteix en tres fases definides prèviament per un treball de fi de grau anterior.
 1. [Col·lecció de dades](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/dataset_creation): La primera fase de l'ananlisi consisteix en recol·lectar els articles de violència sexual dels mitjans de comunicació més importants d'Espanya a partir de les seves publicacions a Twitter.
-    - Codi i recursos
-    - Dades
+    - [Codi i recursos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/dataset_creation) 
+    - [Dades resultants](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/data)
 
 2. Classificació de casos
+Els articles descarregats a l'anterior fase s'agrupen segons la informació que comparteixen.
+    - Codi i recursos
+    - Resultats
+    
 3. Anàlisis d'articles
 
 ## Memòria
