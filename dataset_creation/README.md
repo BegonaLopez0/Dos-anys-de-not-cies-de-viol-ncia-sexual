@@ -46,3 +46,19 @@ Amb aquest fitxer s'obtenen els articles dels tweets classificats com a violènc
     - -media: Llista de mitjans de comunicació a considerar. Si no s'especifica tots els mitjans són considerats.
 
 - **Sortida:** Guarda els fitxers XML que contenen els articles dels tuits a NEWS_PATH seguint la mateixa estructura que TWEETS_PATH.
+
+
+## Descripció de les dades resultants
+Els anteriors scripts ens retornen un conjunt de dades, es pot descarregar [aquí](https://www.dropbox.com/s/48qwzltmb6dd7b5/data.rar?dl=0). L'objectiu d'aquesta secció és explicar la seva estructura.
+
+Les dades es descarreguen en un fitxer rar. Aquest fitxer conté:
+- tweets: una carpeta que conté 3 carpetes (una per cada any). Dins de cada any trobem una carpeta per cada mes i dintre d'aquestes una per cada mitjà de comunicació. Dins de cada mitjà trobem:
+    - predicted: una carpeta amb els fitxers tipus csv etiquetats.
+    - extended_jsonL: un fitxer per cada dia del mes amb els tweets del mitjà en format jsonl.
+    - Un fitxer per cada dia del mes amb els tweets del mitjà en format csv.
+
+- news: una carpeta que conté 3 carpetes (una per any). Dins de cada any una carpeta per mes i dintre d'aquestes els articles de les notícies descarregats en format XML.
+   
+- classified: subdirectoris amb fitxers classificats prèviament. Els fitxers de la subcarpeta 12 els utilitzats finalment per la classificació.
+
+- cases_df.csv: un fitxer que indica un identificador de cas per cada article, generat durant [l'agrupació de casos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/cases_classification).
