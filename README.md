@@ -8,7 +8,7 @@ Partint del treball de fi de grau ‘Analysis of online news articles: the cover
 El projecte consisteix en tres fases definides prèviament per un treball de fi de grau anterior.
 1. [Col·lecció de dades](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/dataset_creation): El primer repte és ampliar considerablement el conjunt de dades anterior. Tant en número de medis com en quantitat per medi, recollint els articles publicats durant un període de temps determinat.
     - [Codi i recursos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/dataset_creation) 
-    - [Dades resultants](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/data)
+    - [Dades](https://www.dropbox.com/s/48qwzltmb6dd7b5/data.rar?dl=0)
 
 2. [Classificació de casos](https://github.com/BegonaLopez0/Dos-anys-de-not-cies-de-viol-ncia-sexual/tree/main/cases_classification):
 En segon lloc agrupar els articles a través d’un model automatitzat segons el cas que tracten tenint en compte la seva distància temporal.
